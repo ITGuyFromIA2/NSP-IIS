@@ -1,0 +1,8 @@
+# Local configuration
+*.local.*
+*.sec
+
+# Test and build output
+TestResults*.xml
+/.pester/
+/Artifacts/
